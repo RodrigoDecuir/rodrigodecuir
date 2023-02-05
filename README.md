@@ -6,3 +6,9 @@
 <!--<a href=#><img src="contributionSnake.svg"></a>-->
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+<!--
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FAFAFA&center=true&width=550&lines=)](https://git.io/typing-svg)
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=FAFAFA&center=true&width=550&lines=)](https://git.io/typing-svg)
+-->
