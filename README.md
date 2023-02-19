@@ -16,4 +16,5 @@
 <!--! [CalvinAndHobbes](https://i.pinimg.com/originals/76/58/7a/76587a4dd7e8d3c481b12519b15558db.png) -->
 <!--! [CalvinAndHobbes](https://i.blogs.es/b24ccf/12/1366_2000.jpg) -->
 
-![CalvinAndHobbes](https://i.blogs.es/b4c1fd/27/1366_2000.jpg)
+<!--![CalvinAndHobbes](https://i.blogs.es/b4c1fd/27/1366_2000.jpg) -->
+<img src="https://i.blogs.es/b4c1fd/27/1366_2000.jpg"  width="700">
