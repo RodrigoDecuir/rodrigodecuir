@@ -18,5 +18,12 @@
 
 <!--![CalvinAndHobbes](https://i.blogs.es/b4c1fd/27/1366_2000.jpg) -->
 <div align="center">
-<img src="https://i.blogs.es/b4c1fd/27/1366_2000.jpg"  width="600" >
+
 </div>
+<p align="left"><b><samp>「</samp></b></p>
+  <p align="center">
+    <samp>
+      <img src="https://i.blogs.es/b4c1fd/27/1366_2000.jpg"  width="600" >
+    </samp>
+  </p>
+<p align="right"><b><samp>」</samp></b></p>
